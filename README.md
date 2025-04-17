@@ -26,5 +26,8 @@
 ## Abstractions
 - [Objects like Ableton Link / Sync to Host e.g. [abl_link~], [playhead-tick], [burst],...](https://github.com/jamshark70/hjh-abs)
 
+## Externals
+- [deken - Pure Data externals wrangler](https://deken.puredata.info/search.html?)
+
 ## Interesting Projects
 - [Spectral Re-Synthesizer](https://chameleonxv2.com/)
