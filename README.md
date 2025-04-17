@@ -13,6 +13,7 @@
 
 ## FORUM / GROUPS / DISCORD
 - [Plugdata Discord Channel](https://discord.com/invite/eT2RxdF9Nq)
+- [Patchstorage – Community driven Patch share place](https://patchstorage.com/)
 
 ## Plugin & Software Dev with Pure Data
 - [Creating plugins and audio software integrations](https://www.youtube.com/@Wasted-Audio)
@@ -23,9 +24,11 @@
 - [Pure Data: External synchronization using Ableton Link and PlugData](https://www.youtube.com/watch?v=DFjUDD_0lMc&ab_channel=JamesHarkins)
 - [Build a simple Sampler](https://www.youtube.com/watch?v=v9a9qXfHdtc&ab_channel=PolarityMusic)
 - [Audio Visual – Ryoji Ikeda Pure Data Tutorial](https://www.youtube.com/watch?v=CLddxGIlVPU&ab_channel=SoundSimulator)
+- 
 
 ## Abstractions
 - [Objects like Ableton Link / Sync to Host e.g. [abl_link~], [playhead-tick], [burst],...](https://github.com/jamshark70/hjh-abs)
+- [MKMR library (Miguel Moreno)](https://github.com/MikeMorenoDSP/pd-mkmr)
 
 ## Externals
 - [deken - Pure Data externals wrangler](https://deken.puredata.info/search.html?)
