@@ -20,6 +20,8 @@
 - [PD > Electro-Smith Daizy](https://youtu.be/-li27LeH4ZY?si=r3IIDYDFL1nn8MN5)
 
 ## Special Topics – Tutorials
+- [Simple Subtractive Synth // Plug Data Tutorial (Mike Moreno DSP)](https://youtu.be/2GIRTj_0mT0?si=C-XdsHPmb4wnXU5D)
+- [Simple Drum Machine // Pure Data Tutorial (Mike Moreno DSP)](https://youtu.be/nxnCkns-zMo?si=iK5xPcmQFk59DehY)
 - [Sound Design with Pure Data](https://www.youtube.com/playlist?list=PLyFkFo29zHvD0XEvcd0YtxE6kHQfptGFj)
 - [Pure Data: External synchronization using Ableton Link and PlugData](https://www.youtube.com/watch?v=DFjUDD_0lMc&ab_channel=JamesHarkins)
 - [Build a simple Sampler](https://www.youtube.com/watch?v=v9a9qXfHdtc&ab_channel=PolarityMusic)
