@@ -26,7 +26,6 @@
 - [Pure Data: External synchronization using Ableton Link and PlugData](https://www.youtube.com/watch?v=DFjUDD_0lMc&ab_channel=JamesHarkins)
 - [Build a simple Sampler](https://www.youtube.com/watch?v=v9a9qXfHdtc&ab_channel=PolarityMusic)
 - [Audio Visual – Ryoji Ikeda Pure Data Tutorial](https://www.youtube.com/watch?v=CLddxGIlVPU&ab_channel=SoundSimulator)
-- 
 
 ## Abstractions
 - [Objects like Ableton Link / Sync to Host e.g. [abl_link~], [playhead-tick], [burst],...](https://github.com/jamshark70/hjh-abs)
