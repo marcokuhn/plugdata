@@ -3,7 +3,7 @@
 ## Tutorials
 - [Plugdata Course for Beginners](https://www.youtube.com/watch?v=EoOEZYn4xdA&list=PLZYD2Edyty0BfJ1RAH2heamjJGVj0TEau&ab_channel=SoundCodex)
 - [Lets Learn Pure Data](https://www.youtube.com/watch?v=1o5Wasmd8yU&list=PLyFkFo29zHvD4eRftIAjcLqIXCtSo7w8g&ab_channel=SoundSimulator)
-- [Real-time Music and Sound with Pure Data](https://youtube.com/playlist?list=PLuxj2jXSuTvvqYcDLJ-poN-JxvqX0wq-m&si=3LSz6sd82w4_pWI9)
+- [Real-time Music and Sound with Pure Data (Andrew R. Brown)](https://youtube.com/playlist?list=PLuxj2jXSuTvvqYcDLJ-poN-JxvqX0wq-m&si=3LSz6sd82w4_pWI9)
 - [Programming Electronic Music in Pd (Johannes Kreidler)](http://www.pd-tutorial.com/)
 - [Pure Data Documentation (Miller Puckette)](https://msp.ucsd.edu/)
 
