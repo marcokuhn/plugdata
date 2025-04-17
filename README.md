@@ -15,6 +15,7 @@
 
 ## Plugin & Software Dev with Pure Data
 - Creating plugins and audio software integrations – https://www.youtube.com/@Wasted-Audio
+- PD > Electro-Smith Daizy – https://youtu.be/-li27LeH4ZY?si=r3IIDYDFL1nn8MN5
 
 ## Special Topics – Tutorials
 - Sound Design with Pure Data – https://www.youtube.com/playlist?list=PLyFkFo29zHvD0XEvcd0YtxE6kHQfptGFj
