@@ -35,3 +35,4 @@
 
 ## Interesting Projects
 - [Spectral Re-Synthesizer](https://chameleonxv2.com/)
+- [Pure Data Instruments (Mike Moreno DSP)](https://www.youtube.com/playlist?list=PLGAR-tC2HGY5ufTD84-1SNH1wnqi78vgs)
