@@ -16,7 +16,8 @@
 ## Plugin & Software Dev with Pure Data
 - Creating plugins and audio software integrations – https://www.youtube.com/@Wasted-Audio
 
-## Special Topics
+## Special Topics – Tutorials
+- Sound Design with Pure Data – https://www.youtube.com/playlist?list=PLyFkFo29zHvD0XEvcd0YtxE6kHQfptGFj
 - Pure Data: External synchronization using Ableton Link and PlugData – https://www.youtube.com/watch?v=DFjUDD_0lMc&ab_channel=JamesHarkins
 - Build a simple Sampler – https://www.youtube.com/watch?v=v9a9qXfHdtc&ab_channel=PolarityMusic
 - Audio Visual – Ryoji Ikeda Pure Data Tutorial – https://www.youtube.com/watch?v=CLddxGIlVPU&ab_channel=SoundSimulator
