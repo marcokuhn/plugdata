@@ -7,4 +7,4 @@
 - Audio Visual – Ryoji Ikeda Pure Data Tutorial – https://www.youtube.com/watch?v=CLddxGIlVPU&ab_channel=SoundSimulator
 
 ## Interesting Projejects
-- https://chameleonxv2.com/
+- Spectral Re-Synthesizer – https://chameleonxv2.com/
